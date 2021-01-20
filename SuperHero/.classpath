@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/asm-all-repackaged-2.1.88.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/cglib-2.1.88.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/hk2-api-2.1.88.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/hk2-locator-2.1.88.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/hk2-utils-2.1.88.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/javax.inject-2.1.88.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/jersey-client-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/jersey-common-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/json-20200518.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Riddhi/Desktop/IR - SuperHero Code Base-20201123T182236Z-001/IR - SuperHero Code Base/SuperHero BuildPath Jars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
